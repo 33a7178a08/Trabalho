@@ -31,6 +31,7 @@ Ao clicar na opção Cardápio, o usuário será redirecionado para a página on
 
 •	Cadastro e Login:
 Para prosseguir com o pedido, o usuário deverá realizar login em sua conta ou, caso ainda não possua uma, efetuar o cadastro diretamente no site.
+
 ![image](https://github.com/user-attachments/assets/1e9b3c12-9bab-40ec-a22d-0f9570573190)
 
 •	Finalização do Pedido e Pagamento:
