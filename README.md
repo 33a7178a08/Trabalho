@@ -1,8 +1,8 @@
-*O QUE É O SITE*
+**O QUE É O SITE**
 
 O site foi desenvolvido com o objetivo de modernizar o atendimento ao cliente, facilitando o acesso aos serviços da pizzaria de maneira prática e eficiente. A plataforma digital permite que os clientes realizem todas as etapas do processo de compra, desde a escolha do produto até o pagamento, garantindo uma experiência otimizada.
 
-*FUNCIONALIDADES*
+**FUNCIONALIDADES**
 
 Entre as principais funcionalidades do site, destacam-se:
 	1.	Login: funcionalidade que possibilita ao usuário acessar sua conta, gerenciar informações pessoais e acompanhar seus pedidos de forma personalizada.
@@ -12,12 +12,12 @@ Entre as principais funcionalidades do site, destacam-se:
 
 A implementação dessas funcionalidades visa melhorar a experiência do cliente, aumentando a praticidade e a eficiência nos serviços prestados pela pizzaria.
 
-*OBJETIVO*
+**OBJETIVO**
 
 O objetivo do site desenvolvido para a pizzaria é modernizar e simplificar o atendimento ao cliente, proporcionando uma experiência prática e eficiente. A plataforma permite que os usuários realizem todas as etapas do processo de compra de forma integrada, desde o acesso à conta até a finalização do pagamento, tornando o serviço mais acessível e ágil.
 
 
-*DESCRIÇÃO DAS FUNCIONALIDADES DO SITE*
+**DESCRIÇÃO DAS FUNCIONALIDADES DO SITE**
 
 Ao acessar o site da pizzaria, o usuário será direcionado para a tela inicial, onde terá acesso às seguintes opções: visualizar o cardápio, realizar cadastro, fazer login em sua conta, consultar o endereço da pizzaria e verificar as formas de pagamento disponíveis.
 
